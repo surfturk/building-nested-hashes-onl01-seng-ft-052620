@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  montague = {}
+  epic_tradegy[:montague][:hero][:status] = "Dead"
 
   
 
